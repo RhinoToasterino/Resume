@@ -1,2 +1,2 @@
-# Resume
-Sample resume 
+# Activities 
+Sample activity 
